@@ -3,6 +3,7 @@
 import json
 
 import click
+from tabulate import tabulate
 
 SYMBOL_KEY = {"wire": "fight"}
 
@@ -34,11 +35,26 @@ def print_message(message):
         print("")
 
 
-@click.command(name="experiment", help="iterate")
-def experiment():
+@click.command(name="decode", help="iterate")
+def decode():
     coded_message = load_coded_message()
     decoded = apply_symbol_key(coded_message)
     print_message(decoded)
+
+
+@click.command(name="freq", help="frequency analysis")
+def freq():
+    coded_message = load_coded_message()
+    symbols = {}
+    for line in coded_message:
+        for phrase in line:
+            for symbol in phrase:
+                if symbol in symbols:
+                    symbols[symbol] = symbols[symbol] + 1
+                else:
+                    symbols[symbol] = 1
+    sorted_symbols = sorted(symbols.items(), key=lambda item: item[1], reverse=True)
+    print(tabulate(sorted_symbols))
 
 
 @click.group()
@@ -46,7 +62,7 @@ def main() -> None:
     pass
 
 
-for func in [experiment]:
+for func in [decode, freq]:
     main.add_command(func)
 
 if __name__ == "__main__":

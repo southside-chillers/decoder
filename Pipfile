@@ -9,6 +9,8 @@ isort = "*"
 prospector = "*"
 
 [packages]
+click = "*"
+tabulate = "*"
 
 [requires]
 python_version = "3.7"
