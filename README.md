@@ -5,7 +5,7 @@ eye u star
 
 eye u CHILDREN carets eye
 eye caret CHILDREN square-with-external-dots
-eye caret CHILDREN face
+eye caret CHILDREN TOYS
 
 CHILDREN u slashes
 slashes u scepter
@@ -19,8 +19,7 @@ eye FIGHT CHILDREN
 CHILDREN FIGHT CHILDREN
 CHILDREN square-with-internal-dots eye
 
-face square-with-external-dots-and-curve eye
+TOYS square-with-external-dots-and-curve eye
 eye carets scepter slashes
-? caret-with-curve face square-with-external-dots-and-curve eye
-
+? caret-with-curve TOYS square-with-external-dots-and-curve eye
 ```
