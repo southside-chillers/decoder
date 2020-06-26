@@ -5,7 +5,13 @@ import json
 import click
 from tabulate import tabulate
 
-SYMBOL_KEY = {"wire": "fight", "broom": "children", "face": "toys", "slashes": "planes"}
+SYMBOL_KEY = {
+    "wire": "fight",
+    "broom": "children",
+    "face": "toys",
+    "slashes": "planes",
+    "hourglass": "time",
+}
 
 
 class ArgumentError(Exception):

@@ -1,6 +1,6 @@
 ```
-arrow hourglass eye
-eye u hourglass
+arrow TIME eye
+eye u TIME
 eye u star
 
 eye u CHILDREN carets eye
