@@ -11,6 +11,7 @@ SYMBOL_KEY = {
     "face": "toys",
     "slashes": "planes",
     "hourglass": "time",
+    "eye": "power",
 }
 
 

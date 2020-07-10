@@ -1,11 +1,11 @@
 ```
-arrow TIME eye
-eye u TIME
-eye u star
+arrow TIME POWER
+POWER u TIME
+POWER u star
 
-eye u CHILDREN carets eye
-eye caret CHILDREN square-with-external-dots
-eye caret CHILDREN TOYS
+POWER u CHILDREN carets POWER
+POWER caret CHILDREN square-with-external-dots
+POWER caret CHILDREN TOYS
 
 CHILDREN u PLANES
 PLANES u scepter
@@ -15,11 +15,11 @@ CHILDREN FIGHT CHILDREN FIGHT
 CHILDREN inverted-U PLANES
 CHILDREN inverted-U scepter
 
-eye FIGHT CHILDREN
+POWER FIGHT CHILDREN
 CHILDREN FIGHT CHILDREN
-CHILDREN square-with-internal-dots eye
+CHILDREN square-with-internal-dots POWER
 
-TOYS square-with-external-dots-and-curve eye
-eye carets scepter PLANES
-? caret-with-curve TOYS square-with-external-dots-and-curve eye
+TOYS square-with-external-dots-and-curve POWER
+POWER carets scepter PLANES
+? caret-with-curve TOYS square-with-external-dots-and-curve POWER
 ```
