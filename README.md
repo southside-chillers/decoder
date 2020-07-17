@@ -1,11 +1,11 @@
 ```
-arrow TIME POWER
-POWER u TIME
-POWER u star
+arrow TIME THE ONE TRUE GOD
+THE ONE TRUE GOD u TIME
+THE ONE TRUE GOD u star
 
-POWER u CHILDREN carets POWER
-POWER caret CHILDREN square-with-external-dots
-POWER caret CHILDREN TOYS
+THE ONE TRUE GOD u CHILDREN carets THE ONE TRUE GOD
+THE ONE TRUE GOD caret CHILDREN square-with-external-dots
+THE ONE TRUE GOD caret CHILDREN TOYS
 
 CHILDREN u PLANES
 PLANES u scepter
@@ -15,11 +15,11 @@ CHILDREN FIGHT CHILDREN FIGHT
 CHILDREN inverted-U PLANES
 CHILDREN inverted-U scepter
 
-POWER FIGHT CHILDREN
+THE ONE TRUE GOD FIGHT CHILDREN
 CHILDREN FIGHT CHILDREN
-CHILDREN square-with-internal-dots POWER
+CHILDREN square-with-internal-dots THE ONE TRUE GOD
 
-TOYS square-with-external-dots-and-curve POWER
-POWER carets scepter PLANES
-? caret-with-curve TOYS square-with-external-dots-and-curve POWER
+TOYS square-with-external-dots-and-curve THE ONE TRUE GOD
+THE ONE TRUE GOD carets scepter PLANES
+? caret-with-curve TOYS square-with-external-dots-and-curve THE ONE TRUE GOD
 ```
