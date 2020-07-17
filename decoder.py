@@ -11,7 +11,7 @@ SYMBOL_KEY = {
     "face": "toys",
     "slashes": "planes",
     "hourglass": "time",
-    "eye": "power",
+    "eye": "the one true god",
 }
 
 
