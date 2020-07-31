@@ -14,8 +14,10 @@ SYMBOL_KEY = {
     "eye": "the power",
     "caret": "gave",
     "u": "created",
-    "inverted-u": "destroyed",
+    "inverted-U": "destroyed",
     "square-with-internal-dots": "trapped",
+    "scepter": "life",
+    "square-with-external-dots": "freedom",
 }
 
 
