@@ -12,6 +12,9 @@ SYMBOL_KEY = {
     "slashes": "the planes",
     "hourglass": "time",
     "eye": "the power",
+    "caret": "gave",
+    "u": "created",
+    "inverted-u": "destroyed",
     "square-with-internal-dots": "trapped",
 }
 
