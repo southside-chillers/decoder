@@ -6,12 +6,13 @@ import click
 from tabulate import tabulate
 
 SYMBOL_KEY = {
-    "wire": "fight",
-    "broom": "children",
+    "wire": "fought",
+    "broom": "the children",
     "face": "toys",
-    "slashes": "planes",
+    "slashes": "the planes",
     "hourglass": "time",
-    "eye": "the one true god",
+    "eye": "the power",
+    "square-with-internal-dots": "trapped",
 }
 
 

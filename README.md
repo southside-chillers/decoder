@@ -1,25 +1,25 @@
 ```
-arrow TIME THE ONE TRUE GOD
-THE ONE TRUE GOD u TIME
-THE ONE TRUE GOD u star
+arrow TIME THE POWER
+THE POWER u TIME
+THE POWER u star
 
-THE ONE TRUE GOD u CHILDREN carets THE ONE TRUE GOD
-THE ONE TRUE GOD caret CHILDREN square-with-external-dots
-THE ONE TRUE GOD caret CHILDREN TOYS
+THE POWER u THE CHILDREN carets THE POWER
+THE POWER caret THE CHILDREN square-with-external-dots
+THE POWER caret THE CHILDREN TOYS
 
-CHILDREN u PLANES
-PLANES u scepter
-scepter caret down-arrow CHILDREN
+THE CHILDREN u THE PLANES
+THE PLANES u scepter
+scepter caret down-arrow THE CHILDREN
 
-CHILDREN FIGHT CHILDREN FIGHT
-CHILDREN inverted-U PLANES
-CHILDREN inverted-U scepter
+THE CHILDREN FOUGHT THE CHILDREN FOUGHT
+THE CHILDREN inverted-U THE PLANES
+THE CHILDREN inverted-U scepter
 
-THE ONE TRUE GOD FIGHT CHILDREN
-CHILDREN FIGHT CHILDREN
-CHILDREN square-with-internal-dots THE ONE TRUE GOD
+THE POWER FOUGHT THE CHILDREN
+THE CHILDREN FOUGHT THE CHILDREN
+THE CHILDREN TRAPPED THE POWER
 
-TOYS square-with-external-dots-and-curve THE ONE TRUE GOD
-THE ONE TRUE GOD carets scepter PLANES
-? caret-with-curve TOYS square-with-external-dots-and-curve THE ONE TRUE GOD
+TOYS square-with-external-dots-and-curve THE POWER
+THE POWER carets scepter THE PLANES
+? caret-with-curve TOYS square-with-external-dots-and-curve THE POWER
 ```
