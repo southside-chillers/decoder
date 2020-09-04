@@ -18,6 +18,7 @@ SYMBOL_KEY = {
     "square-with-internal-dots": "trapped",
     "scepter": "life",
     "square-with-external-dots": "freedom",
+    "star": "everything",
 }
 
 
