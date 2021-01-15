@@ -13,11 +13,13 @@ SYMBOL_KEY = {
     "hourglass": "time",
     "eye": "the power",
     "caret": "gave",
+    "caret-with-curve": "give",
     "u": "created",
     "inverted-U": "destroyed",
     "square-with-internal-dots": "trapped",
     "scepter": "life",
     "square-with-external-dots": "freedom",
+    "square-with-external-dots-and-curve": "free",
     "star": "everything",
 }
 
