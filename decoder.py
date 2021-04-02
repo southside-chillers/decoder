@@ -21,6 +21,9 @@ SYMBOL_KEY = {
     "square-with-external-dots": "freedom",
     "square-with-external-dots-and-curve": "free",
     "star": "everything",
+    "arrow": "before",
+    "down-arrow": "names",
+    "carets": "will give"
 }
 
 
